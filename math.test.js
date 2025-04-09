@@ -36,4 +36,4 @@ test ( 'computes factorial correctly', () => {
 
     expect ( returnFactorial ( 5 ) ).toBe ( 120 );
 
-} );
+} );// add comment
